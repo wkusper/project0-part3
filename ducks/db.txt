@@ -1,0 +1,5 @@
+1,Quackers,Mallard
+2,Daffy,Redhead
+3,Scrooge,Redhead
+4,Donald,Redhead
+5,Daisy,Mallard
